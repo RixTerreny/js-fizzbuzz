@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #083b4c;
+}
+
+h1{
+    font-size: 3.4rem;
+}
+
+.square{
+    font-size: 1.8rem;
+    height: 11vw;
+    width: 11vw;
+}
+
+.square-number{
+    background-color: #1389b2;
+}
+
+.square-fizz{
+    background-color: #0cd6a1;
+}
+
+.square-buzz{
+    background-color: #ffd166;
+}
+
+.square-fizz-buzz{
+    background-color: #f0466f;
+}
